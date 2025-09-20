@@ -1,0 +1,3 @@
+[submodule "cjazz/themes/bridget"]
+	path = cjazz/themes/bridget
+	url = https://github.com/Sped0n/bridget
