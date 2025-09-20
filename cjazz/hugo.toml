@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://cjazzuk.github.io/cjazz/'
 languageCode = 'en-gb'
 title = 'cjazz'
 theme = "bridget"
