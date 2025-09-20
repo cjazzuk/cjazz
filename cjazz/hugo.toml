@@ -2,7 +2,7 @@ baseURL = 'https://cjazzuk.github.io/cjazz/'
 languageCode = 'en-gb'
 title = 'cjazz'
 theme = "bridget"
-# publish the built site into /docs so GitHub Pages can serve it
+# publish the built site into/docs so GitHub Pages can serve it
 publishDir = "docs"
 
 # Optional but helpful on GitHub Pages if you see broken paths:
