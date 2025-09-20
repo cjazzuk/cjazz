@@ -2,4 +2,4 @@
 title: "Home"
 draft: false
 ---
-Welcome to my site.
+Welcome to my site. 2
